@@ -179,7 +179,9 @@ MasterPort::sendFunctional(PacketPtr pkt)
 bool
 MasterPort::sendTimingReq(PacketPtr pkt)
 {
-    assert(pkt->isRequest());
+    std::cout << "fanxi added in port.cc sendTimingReq" <<std::endl;
+	assert(pkt->isRequest());
+	std::cout << "_slavePort.name" << _slavePort->name() << std::endl;
     return _slavePort->recvTimingReq(pkt);
 }
 
@@ -258,6 +260,7 @@ bool
 SlavePort::sendTimingResp(PacketPtr pkt)
 {
     assert(pkt->isResponse());
+    std::cout << "fanxi added in port.cc, now _masterPort->recvTimingResp" <<std::endl;
     return _masterPort->recvTimingResp(pkt);
 }
 

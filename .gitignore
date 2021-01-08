@@ -30,3 +30,8 @@ gem5/system/arm/bootloader/arm64/boot_emm.arm64
 gem5/system/arm/bootloader/arm64/boot_v2.arm64
 gem5/configs/example/memcheck.cfg
 gem5/configs/dram/lowp_sweep.cfg
+
+
+gem5/log.txt
+recv/
+

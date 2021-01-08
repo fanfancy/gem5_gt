@@ -134,7 +134,7 @@ def create_topology(controllers, options):
     return topology
 
 def create_system(options, full_system, system, piobus = None, dma_ports = []):
-
+    print "fanxi added in ruby.py, now creat system"
     system.ruby = RubySystem()
     ruby = system.ruby
 
@@ -144,6 +144,8 @@ def create_system(options, full_system, system, piobus = None, dma_ports = []):
     ruby.network = network
 
     protocol = buildEnv['PROTOCOL']
+    print "fanxi added in ruby.py protocol = ",protocol
+
     exec "import %s" % protocol
     try:
         (cpu_sequencers, dir_cntrls, topology) = \

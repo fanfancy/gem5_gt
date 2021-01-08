@@ -177,6 +177,9 @@ void
 Network::setToNetQueue(NodeID id, bool ordered, int network_num,
                                  std::string vnet_type, MessageBuffer *b)
 {
+    std::cout << "fanxi added in network.cc, network_num = "<< network_num << std::endl;
+    std::cout << "m_toNetQueues.size() "<< m_toNetQueues.size()  << std::endl;
+
     checkNetworkAllocation(id, ordered, network_num, vnet_type);
     while (m_toNetQueues[id].size() <= network_num) {
         m_toNetQueues[id].push_back(nullptr);

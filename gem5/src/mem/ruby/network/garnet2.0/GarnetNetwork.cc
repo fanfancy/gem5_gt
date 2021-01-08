@@ -59,6 +59,7 @@ using m5::stl_helpers::deletePointers;
 GarnetNetwork::GarnetNetwork(const Params *p)
     : Network(p)
 {
+    // std::cout << "fanxi added in GarnetNetwork::GarnetNetwork" <<std::endl;
     m_num_rows = p->num_rows;
     m_ni_flit_size = p->ni_flit_size;
     m_vcs_per_vnet = p->vcs_per_vnet;
@@ -137,8 +138,10 @@ GarnetNetwork::GarnetNetwork(const Params *p)
     }
 
     // record the network interfaces
+    std::cout << "fanxi added in GarnetNetwork::GarnetNetwork, record the network interfaces" <<std::endl; 
     for (vector<ClockedObject*>::const_iterator i = p->netifs.begin();
          i != p->netifs.end(); ++i) {
+        std::cout <<"fanxi added, netifs = "<< *i << std::endl;
         NetworkInterface *ni = safe_cast<NetworkInterface *>(*i);
         m_nis.push_back(ni);
         ni->init_net_ptr(this);

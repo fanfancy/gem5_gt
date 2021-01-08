@@ -82,6 +82,8 @@ class GarnetSyntheticTraffic : public MemObject
 
       public:
 
+        int num_packet_recv;
+
         CpuPort(const std::string &_name, GarnetSyntheticTraffic *_tester)
             : MasterPort(_name, _tester), tester(_tester)
         { }

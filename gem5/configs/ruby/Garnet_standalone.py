@@ -43,6 +43,7 @@ def define_options(parser):
     return
 
 def create_system(options, full_system, system, dma_ports, ruby_system):
+    print "added by fanxi,in garnet_standalone.py, create_system"
     if buildEnv['PROTOCOL'] != 'Garnet_standalone':
         panic("This script requires Garnet_standalone protocol to be built.")
 

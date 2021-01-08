@@ -208,6 +208,7 @@ bool RubyPort::MemMasterPort::recvTimingResp(PacketPtr pkt)
 bool
 RubyPort::PioSlavePort::recvTimingReq(PacketPtr pkt)
 {
+	std::cout <<"fanxi added in RubyPort.cc, PioSlavePort::recvTimingReq" << std::endl;
     RubyPort *ruby_port = static_cast<RubyPort *>(&owner);
 
     for (size_t i = 0; i < ruby_port->master_ports.size(); ++i) {
@@ -249,6 +250,7 @@ RubyPort::PioSlavePort::recvAtomic(PacketPtr pkt)
 bool
 RubyPort::MemSlavePort::recvTimingReq(PacketPtr pkt)
 {
+	std::cout <<"fanxi added in RubyPort.cc, MemSlavePort::recvTimingReq" << std::endl;
     DPRINTF(RubyPort, "Timing request for address %#x on port %d\n",
             pkt->getAddr(), id);
     RubyPort *ruby_port = static_cast<RubyPort *>(&owner);

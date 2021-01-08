@@ -2742,7 +2742,8 @@ Cache::CpuSidePort::tryTiming(PacketPtr pkt)
 bool
 Cache::CpuSidePort::recvTimingReq(PacketPtr pkt)
 {
-    assert(!cache->system->bypassCaches());
+    std::cout << "fanxi added in cache.cc Cache::CpuSidePort::recvTimingReq" << std::endl;
+	assert(!cache->system->bypassCaches());
 
     // always let express snoop packets through if even if blocked
     if (pkt->isExpressSnoop()) {

@@ -36,6 +36,11 @@
 #include <string>
 #include <vector>
 
+#include <iostream>
+#include <fstream>
+#include <cassert>
+
+
 #include "base/logging.hh"
 #include "base/random.hh"
 #include "base/statistics.hh"
@@ -55,7 +60,7 @@ int TESTER_NETWORK=0;
 bool
 GarnetSyntheticTraffic::CpuPort::recvTimingResp(PacketPtr pkt)
 {
-    tester->completeRequest(pkt);
+    tester->completeRequest(pkt);  // packet is injected fanxi
     return true;
 }
 
@@ -108,11 +113,16 @@ GarnetSyntheticTraffic::GarnetSyntheticTraffic(const Params *p)
     id = TESTER_NETWORK++;
     DPRINTF(GarnetSyntheticTraffic,"Config Created: Name = %s , and id = %d\n",
             name(), id);
+
+    // std::cout << "fanxi added when new GarnetSyntheticTraffic, name()= "<< name() <<" id = " << id << std::endl;
+    // fanxi added when new GarnetSyntheticTraffic, name()= system.cpu06 id = 6
 }
 
 BaseMasterPort &
 GarnetSyntheticTraffic::getMasterPort(const std::string &if_name, PortID idx)
 {
+    // called by 16 times if_name="test"
+    std::cout << "fanxi added when getMasterPort, if_name= " << if_name <<" idx= " <<idx <<std::endl;
     if (if_name == "test")
         return cachePort;
     else
@@ -121,7 +131,9 @@ GarnetSyntheticTraffic::getMasterPort(const std::string &if_name, PortID idx)
 
 void
 GarnetSyntheticTraffic::init()
-{
+{   
+    // std::cout << "fanxi added when GarnetSyntheticTraffic::init()"  <<std::endl;
+    // called by 16 times
     numPacketsSent = 0;
 }
 
@@ -129,6 +141,8 @@ GarnetSyntheticTraffic::init()
 void
 GarnetSyntheticTraffic::completeRequest(PacketPtr pkt)
 {
+    std::cout << "fanxi added when GarnetSyntheticTraffic::completeRequest()"  <<std::endl;
+
     DPRINTF(GarnetSyntheticTraffic,
             "Completed injection of %s packet for address %x\n",
             pkt->isWrite() ? "write" : "read\n",
@@ -139,10 +153,28 @@ GarnetSyntheticTraffic::completeRequest(PacketPtr pkt)
     delete pkt;
 }
 
+void recv_packets(int id)
+{
+	std::string file;
+	file = "/home/fanx/noc/gem5_gt/recv/"+std::to_string(id)+".txt";
+	ifstream infile; 
+    infile.open(file.data());  
+    assert(infile.is_open());   
+
+    string s;
+    while(getline(infile,s))
+    {
+        std::cout<<"fanxi added, recv_packets ing, id= " << id <<" packets="<<s<<std::endl;
+    }
+    infile.close();             //关闭文件输入流 
+}
+
 
 void
 GarnetSyntheticTraffic::tick()
 {
+	recv_packets(id);
+	// std::cout<<" fanxi added GarnetSyntheticTraffic::tick(), id= "<< id << std::endl;
     if (++noResponseCycles >= responseLimit) {
         fatal("%s deadlocked at cycle %d\n", name(), curTick());
     }
@@ -161,6 +193,7 @@ GarnetSyntheticTraffic::tick()
 
     // always generatePkt unless fixedPkts or singleSender is enabled
     if (sendAllowedThisCycle) {
+		// std::cout<<" fanxi added GarnetSyntheticTraffic: sendAllowedThisCycle id = "<< id << std::endl; 
         bool senderEnable = true;
 
         if (numPacketsMax >= 0 && numPacketsSent >= numPacketsMax)
@@ -185,6 +218,7 @@ GarnetSyntheticTraffic::tick()
 void
 GarnetSyntheticTraffic::generatePkt()
 {
+	std::cout<<" fanxi added GarnetSyntheticTraffic: generatePkt(), id: " <<id << std::endl; 
     int num_destinations = numDestinations;
     int radix = (int) sqrt(num_destinations);
     unsigned destination = id;
@@ -283,6 +317,7 @@ GarnetSyntheticTraffic::generatePkt()
     // Vnet 0 and 1 are for control packets (1-flit)
     // Vnet 2 is for data packets (5-flit)
     int injReqType = injVnet;
+    std::cout<<" fanx added the generated packet: destination= "<< destination << "; injVnet=" <<injVnet << std::endl;
 
     if (injReqType < 0 || injReqType > 2)
     {
@@ -353,6 +388,8 @@ GarnetSyntheticTraffic::printAddr(Addr a)
 
 GarnetSyntheticTraffic *
 GarnetSyntheticTrafficParams::create()
-{
+{   
+    std::cout<<" fanxi added GarnetSyntheticTrafficParams::create() " << std::endl;  
+    // called by 16 times at the begining to new 16 cpus
     return new GarnetSyntheticTraffic(this);
 }

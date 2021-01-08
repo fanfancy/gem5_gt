@@ -123,7 +123,9 @@ system.voltage_domain = VoltageDomain(voltage = options.sys_voltage)
 system.clk_domain = SrcClockDomain(clock = options.sys_clock,
                                    voltage_domain = system.voltage_domain)
 
+print "fanxi added in garnet_synth_traffic.py now create_system"
 Ruby.create_system(options, False, system)
+
 
 # Create a seperate clock domain for Ruby
 system.ruby.clk_domain = SrcClockDomain(clock = options.ruby_clock,
@@ -134,6 +136,7 @@ for ruby_port in system.ruby._cpu_ports:
      #
      # Tie the cpu test ports to the ruby cpu port
      #
+     print "fanxi added in garnet_synth_traffic.py now Tie the cpu test ports to the ruby cpu port"
      cpus[i].test = ruby_port.slave
      i += 1
 

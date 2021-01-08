@@ -153,6 +153,7 @@ def init_network(options, network, InterfaceClass):
         network.setup_buffers()
 
     if InterfaceClass != None:
+        print "fanxi added in Network.py, now new netifs"
         netifs = [InterfaceClass(id=i) \
                   for (i,n) in enumerate(network.ext_links)]
         network.netifs = netifs
