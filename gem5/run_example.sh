@@ -1,3 +1,4 @@
+cp /home/fanx/noc/gem5_gt/standard_cpu_task/*.txt /home/fanx/noc/gem5_gt/cpu_task/
 ./build/Garnet_standalone/gem5.opt \
 	configs/example/garnet_synth_traffic.py \
 	--topology=Mesh_XY \

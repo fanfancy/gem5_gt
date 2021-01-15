@@ -60,7 +60,7 @@ parser.add_option("--precision", type="int", default=3,
                   help="Number of digits of precision after decimal point\
                         for injection rate")
 
-parser.add_option("--sim-cycles", type="int", default=1000,
+parser.add_option("--sim-cycles", type="int", default=2000,
                    help="Number of simulation cycles")
 
 parser.add_option("--num-packets-max", type="int", default=-1,

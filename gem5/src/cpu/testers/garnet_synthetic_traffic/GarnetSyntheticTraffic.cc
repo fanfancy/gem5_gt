@@ -39,6 +39,7 @@
 #include <iostream>
 #include <fstream>
 #include <cassert>
+#include <sstream>  
 
 
 #include "base/logging.hh"
@@ -52,6 +53,16 @@
 #include "sim/sim_events.hh"
 #include "sim/stats.hh"
 #include "sim/system.hh"
+
+// CPU satus
+# define IDLE               (int(0))
+# define WORKIING           (int(1)) 
+# define FINISH             (int(2)) 
+// CPU working status
+# define WORK_WAIT          (int(3))
+# define WORK_CAL           (int(4))
+# define WORK_SEND          (int(5))
+# define WORK_IDLE          (int(6))
 
 using namespace std;
 
@@ -129,12 +140,23 @@ GarnetSyntheticTraffic::getMasterPort(const std::string &if_name, PortID idx)
         return MemObject::getMasterPort(if_name, idx);
 }
 
+void init_recv_packet_files(int id){
+    std::string file;
+	file = "/home/fanx/noc/gem5_gt/recv/"+std::to_string(id)+".txt";
+	ofstream OutFile(file);
+	OutFile << std::to_string(0); 
+    OutFile.close();    
+}
+
 void
 GarnetSyntheticTraffic::init()
 {   
     // std::cout << "fanxi added when GarnetSyntheticTraffic::init()"  <<std::endl;
     // called by 16 times
+    cpu_status = IDLE;
     numPacketsSent = 0;
+    current_line_num = 0;
+    init_recv_packet_files(id);
 }
 
 
@@ -153,7 +175,7 @@ GarnetSyntheticTraffic::completeRequest(PacketPtr pkt)
     delete pkt;
 }
 
-void recv_packets(int id)
+int recv_packets(int id)
 {
 	std::string file;
 	file = "/home/fanx/noc/gem5_gt/recv/"+std::to_string(id)+".txt";
@@ -167,13 +189,170 @@ void recv_packets(int id)
         std::cout<<"fanxi added, recv_packets ing, id= " << id <<" packets="<<s<<std::endl;
     }
     infile.close();             //关闭文件输入流 
+    return atoi(s.c_str());
 }
 
 
+
+// 1代表读到task 0 代表没有读到，文件结束
+int GarnetSyntheticTraffic::get_task(int id,int line_num)
+{
+	std::string file;
+	file = "/home/fanx/noc/gem5_gt/cpu_task/"+std::to_string(id)+".txt";
+	ifstream infile; 
+    infile.open(file.data());  
+    assert(infile.is_open());   
+
+    int read_line_num=0;
+    while(getline(infile,current_task_line))
+    {
+        if (read_line_num == line_num){
+            break;
+        }
+        read_line_num += 1;
+    }
+    infile.close();             //关闭文件输入流 
+    if (read_line_num < line_num || current_task_line == ""){ //文件最后会有个空行
+        return 0;
+    }
+    else {
+        std::cout<<"fanxi added, get_task, id= " << id <<" linenum=" <<line_num << " task ="<< current_task_line <<std::endl;
+        return 1;   
+    }
+    
+}
+
+vector<string> split(const string &str, const string &pattern)
+{
+    vector<string> res;
+    if(str == "")
+        return res;
+    //在字符串末尾也加入分隔符，方便截取最后一段
+    string strs = str + pattern;
+    size_t pos = strs.find(pattern);
+
+    while(pos != strs.npos)
+    {
+        string temp = strs.substr(0, pos);
+        res.push_back(temp);
+        //去掉已分割的字符串,在剩下的字符串中进行分割
+        strs = strs.substr(pos+1, strs.size());
+        pos = strs.find(pattern);
+    }
+
+    return res;
+}
+
+
+void tell_mem_send_data(std::string src_mem_index,std::string num_wait_packets,int id) 
+{
+	std::string file;
+	file = "/home/fanx/noc/gem5_gt/cpu_task/"+src_mem_index+".txt";
+    fstream f;
+
+    std::string message_to_write = "send ";
+    message_to_write.append(std::to_string(id));
+    message_to_write.append(" ");
+    message_to_write.append(num_wait_packets);
+    //追加写入,在原来基础上加了ios::app 
+	f.open(file,ios::out|ios::app);
+    f<<message_to_write<<endl; 
+    f.close(); 
+    std::cout<<"fanxi added, tell_mem_send_data ing, id= " << id << std::endl;
+	 
+}
+
 void
 GarnetSyntheticTraffic::tick()
-{
-	recv_packets(id);
+{   
+    std::cout << "cpu id"<<id<<" status:" << cpu_status <<" current_line_num:"<< current_line_num << std::endl;
+    std::cout << "cpu id"<<id<<" cpu_work_stats:" << cpu_work_stats <<std::endl;
+    
+    int if_get_task;
+    bool sendAllowedThisCycle = false;
+    // idle status : read task file
+    if (cpu_status == IDLE){
+        if_get_task = get_task(id, current_line_num);
+        
+        
+        if (if_get_task == 0){
+            cpu_status = IDLE;
+        }
+        
+        else{// 解析task_line
+            current_line_num += 1;
+            vector<string>  current_task;
+            current_task  = split(current_task_line," ");
+
+            if (current_task[0] == "wait"){
+                std::cout << "== wait" << std::endl;
+                cpu_status = WORKIING;
+                cpu_work_stats = WORK_WAIT;
+                num_packet_wait = atoi(current_task[1].c_str());
+                std::string str_num_wait_packets = current_task[1];
+                std::string str_src_mem_index = current_task[2];
+                tell_mem_send_data(str_src_mem_index,  str_num_wait_packets,  id);
+            }
+            else if (current_task[0] == "cal"){
+                std::cout << "== cal" << std::endl;
+                cpu_status = WORKIING;
+                cpu_work_stats = WORK_CAL;
+
+                stringstream stream;            //声明一个stringstream变量
+                stream << current_task[1];      //向stream中插入字符串"1234"
+                stream >> cal_cycles;           // 初始化cal_cycles 
+                cycles_caled = 0;
+            }
+            else if (current_task[0] == "send"){
+                std::cout << "== send" << std::endl;
+                cpu_status = WORKIING;
+                cpu_work_stats = WORK_SEND;
+                packets_to_send = atoi(current_task[2].c_str());
+                send_dst = atoi(current_task[1].c_str());
+                packets_sent = 0;
+            }
+            else if (strstr(current_task[0].c_str(), "finish") != NULL ) { // 最后一行current_task[0]会多一个终结符
+                cpu_status = FINISH;
+                cpu_work_stats = WORK_IDLE;
+            }
+        }
+    }
+
+    // working status
+    else if (cpu_status == WORKIING){
+        if (cpu_work_stats == WORK_WAIT){
+            int packet_recv = recv_packets(id) - total_packet_recv_previous;
+            if (packet_recv == num_packet_wait){
+                cpu_work_stats = WORK_IDLE;
+                cpu_status = IDLE;
+                total_packet_recv_previous += packet_recv;
+            }
+            // 否则维持wait状态
+        }
+        else if (cpu_work_stats == WORK_SEND){
+            if (packets_sent == packets_to_send){  //TODO ++ packets_sent
+                cpu_work_stats = WORK_IDLE;
+                cpu_status = IDLE;
+            }
+            else {
+                sendAllowedThisCycle = true;
+            }
+        }
+
+        else if (cpu_work_stats == WORK_CAL){
+            if (cycles_caled == cal_cycles){
+                cpu_work_stats = WORK_IDLE;
+                cpu_status = IDLE;
+            }
+            else {
+                cycles_caled += 1;
+            }
+        }
+    }
+    
+
+    
+	
 	// std::cout<<" fanxi added GarnetSyntheticTraffic::tick(), id= "<< id << std::endl;
     if (++noResponseCycles >= responseLimit) {
         fatal("%s deadlocked at cycle %d\n", name(), curTick());
@@ -183,13 +362,13 @@ GarnetSyntheticTraffic::tick()
     // (injection rate's range depends on precision)
     // - generate a random number between 0 and 10^precision
     // - send pkt if this number is < injRate*(10^precision)
-    bool sendAllowedThisCycle;
-    double injRange = pow((double) 10, (double) precision);
-    unsigned trySending = random_mt.random<unsigned>(0, (int) injRange);
-    if (trySending < injRate*injRange)
-        sendAllowedThisCycle = true;
-    else
-        sendAllowedThisCycle = false;
+    
+    // double injRange = pow((double) 10, (double) precision);
+    // unsigned trySending = random_mt.random<unsigned>(0, (int) injRange);
+    // if (trySending < injRate*injRange)
+    //     sendAllowedThisCycle = true;
+    // else
+    //     sendAllowedThisCycle = false;
 
     // always generatePkt unless fixedPkts or singleSender is enabled
     if (sendAllowedThisCycle) {
@@ -202,8 +381,11 @@ GarnetSyntheticTraffic::tick()
         if (singleSender >= 0 && id != singleSender)
             senderEnable = false;
 
-        if (senderEnable)
-            generatePkt();
+        if (senderEnable){
+            generatePkt(send_dst);
+            packets_sent += 1;
+        }
+           
     }
 
     // Schedule wakeup
@@ -216,7 +398,7 @@ GarnetSyntheticTraffic::tick()
 }
 
 void
-GarnetSyntheticTraffic::generatePkt()
+GarnetSyntheticTraffic::generatePkt(int send_dst)
 {
 	std::cout<<" fanxi added GarnetSyntheticTraffic: generatePkt(), id: " <<id << std::endl; 
     int num_destinations = numDestinations;
@@ -280,7 +462,7 @@ GarnetSyntheticTraffic::generatePkt()
     // The source of the packets is a cache.
     // The destination of the packets is a directory.
     // The destination bits are embedded in the address after byte-offset.
-    Addr paddr =  destination;
+    Addr paddr =  send_dst;  // fanxi modified
     paddr <<= blockSizeBits;
     unsigned access_size = 1; // Does not affect Ruby simulation
 
@@ -317,7 +499,7 @@ GarnetSyntheticTraffic::generatePkt()
     // Vnet 0 and 1 are for control packets (1-flit)
     // Vnet 2 is for data packets (5-flit)
     int injReqType = injVnet;
-    std::cout<<" fanx added the generated packet: destination= "<< destination << "; injVnet=" <<injVnet << std::endl;
+    std::cout<<" fanx added the generated packet: destination= "<< send_dst << "; injVnet=" <<injVnet << std::endl;
 
     if (injReqType < 0 || injReqType > 2)
     {

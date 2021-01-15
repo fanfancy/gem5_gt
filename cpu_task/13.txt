@@ -1,0 +1,25 @@
+wait 24 8 101111
+cal 36
+wait 24 8 102111
+cal 36
+wait 24 8 103111
+cal 36
+wait 24 8 104111
+cal 36
+wait 24 8 105111
+cal 36
+wait 24 8 106111
+cal 36
+wait 24 8 107111
+cal 36
+wait 24 8 108111
+cal 36
+wait 24 8 109111
+cal 36
+wait 24 8 110111
+cal 36
+wait 24 8 111111
+cal 36
+wait 24 8 112111
+cal 36
+finish

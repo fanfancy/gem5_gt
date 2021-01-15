@@ -56,6 +56,19 @@ class Packet;
 class GarnetSyntheticTraffic : public MemObject
 {
   public:
+    int cal_cycles;
+    int packets_to_send ;
+    int send_dst;
+    int packets_sent;
+    int cpu_status;
+    int num_packet_wait;
+    int cycles_caled;
+    int total_packet_recv_previous;
+    int cpu_work_stats;
+    std::string current_task_line;
+    int current_line_num;
+    int get_task(int id,int line_num);
+
     typedef GarnetSyntheticTrafficParams Params;
     GarnetSyntheticTraffic(const Params *p);
 
@@ -113,6 +126,7 @@ class GarnetSyntheticTraffic : public MemObject
     unsigned size;
     int id;
 
+
     std::map<std::string, TrafficType> trafficStringToEnum;
 
     unsigned blockSizeBits;
@@ -138,7 +152,7 @@ class GarnetSyntheticTraffic : public MemObject
 
     void completeRequest(PacketPtr pkt);
 
-    void generatePkt();
+    void generatePkt(int send_dst);
     void sendPkt(PacketPtr pkt);
     void initTrafficType();
 
