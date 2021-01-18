@@ -1,25 +1,25 @@
-wait 24 4 101012
+wait 2 4 101012
 cal 36
-wait 24 4 102012
+wait 2 4 102012
 cal 36
-wait 24 4 103012
+wait 2 4 103012
 cal 36
-wait 24 4 104012
+wait 2 4 104012
 cal 36
-wait 24 4 105012
+wait 2 4 105012
 cal 36
-wait 24 4 106012
+wait 2 4 106012
 cal 36
-wait 24 4 107012
+wait 2 4 107012
 cal 36
-wait 24 4 108012
+wait 2 4 108012
 cal 36
-wait 24 4 109012
+wait 2 4 109012
 cal 36
-wait 24 4 110012
+wait 2 4 110012
 cal 36
-wait 24 4 111012
+wait 2 4 111012
 cal 36
-wait 24 4 112012
+wait 2 4 112012
 cal 36
 finish

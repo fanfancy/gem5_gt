@@ -1,3 +1,6 @@
+# generate task lists
+python3 ../standard_cpu_task/rs_dataflow.py
+
 cp ../standard_cpu_task/*.txt ../cpu_task/
 ./build/Garnet_standalone/gem5.opt \
 	configs/example/garnet_synth_traffic.py \
