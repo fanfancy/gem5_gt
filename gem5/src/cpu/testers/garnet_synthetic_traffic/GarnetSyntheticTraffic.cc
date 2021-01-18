@@ -323,6 +323,7 @@ GarnetSyntheticTraffic::tick()
             else if (strstr(current_task[0].c_str(), "finish") != NULL ) { // 最后一行current_task[0]会多一个终结符
                 cpu_status = FINISH;
                 cpu_work_stats = WORK_IDLE;
+                std::cout << "cpu "<< id << " finished all tasks" << "@"<< curTick() << std::endl;
             }
         }
     }
