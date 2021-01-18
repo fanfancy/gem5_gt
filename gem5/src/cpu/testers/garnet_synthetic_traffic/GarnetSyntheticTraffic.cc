@@ -53,6 +53,7 @@
 #include "sim/sim_events.hh"
 #include "sim/stats.hh"
 #include "sim/system.hh"
+#include <unistd.h>
 
 // CPU satus
 # define IDLE               (int(0))
@@ -142,7 +143,7 @@ GarnetSyntheticTraffic::getMasterPort(const std::string &if_name, PortID idx)
 
 void init_recv_packet_files(int id){
     std::string file;
-	file = "/home/fanx/noc/gem5_gt/recv/"+std::to_string(id)+".txt";
+	file = "./../recv/"+std::to_string(id)+".txt";
 	ofstream OutFile(file);
 	OutFile << std::to_string(0); 
     OutFile.close();    
@@ -157,6 +158,14 @@ GarnetSyntheticTraffic::init()
     numPacketsSent = 0;
     current_line_num = 0;
     init_recv_packet_files(id);
+
+    // get current working path 
+    char cwd[100];
+    if (getcwd(cwd, sizeof(cwd)) != NULL) {
+       std::cout <<"Current working dir:  "<< cwd << std::endl;
+    } else {
+       std::cout << "getcwd() error" << std::endl;
+    }
 }
 
 
@@ -178,7 +187,7 @@ GarnetSyntheticTraffic::completeRequest(PacketPtr pkt)
 int recv_packets(int id)
 {
 	std::string file;
-	file = "/home/fanx/noc/gem5_gt/recv/"+std::to_string(id)+".txt";
+	file = "./../recv/"+std::to_string(id)+".txt";
 	ifstream infile; 
     infile.open(file.data());  
     assert(infile.is_open());   
@@ -198,7 +207,7 @@ int recv_packets(int id)
 int GarnetSyntheticTraffic::get_task(int id,int line_num)
 {
 	std::string file;
-	file = "/home/fanx/noc/gem5_gt/cpu_task/"+std::to_string(id)+".txt";
+	file = "./../cpu_task/"+std::to_string(id)+".txt";
 	ifstream infile; 
     infile.open(file.data());  
     assert(infile.is_open());   
@@ -247,7 +256,7 @@ vector<string> split(const string &str, const string &pattern)
 void tell_mem_send_data(std::string src_mem_index,std::string num_wait_packets,int id) 
 {
 	std::string file;
-	file = "/home/fanx/noc/gem5_gt/cpu_task/"+src_mem_index+".txt";
+	file = "./../cpu_task/"+src_mem_index+".txt";
     fstream f;
 
     std::string message_to_write = "send ";

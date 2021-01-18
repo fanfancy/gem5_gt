@@ -34,4 +34,4 @@ gem5/configs/dram/lowp_sweep.cfg
 
 gem5/log.txt
 recv/
-
+./vscode/*

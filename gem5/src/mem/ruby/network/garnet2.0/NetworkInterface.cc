@@ -191,7 +191,7 @@ NetworkInterface::incrementStats(flit *t_flit)
 void update_recv_packets(int id,int num_recv_packet)
 {
 	std::string file;
-	file = "/home/fanx/noc/gem5_gt/recv/"+std::to_string(id)+".txt";
+	file = "./../recv/"+std::to_string(id)+".txt";
 	ofstream OutFile(file);
 	OutFile << std::to_string(num_recv_packet); 
     std::cout<<"fanxi added, update_recv_packets ing, id= " << id <<" packets="<<num_recv_packet<<std::endl;
