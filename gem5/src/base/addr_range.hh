@@ -107,6 +107,11 @@ class AddrRange
           xorHighBit(_xor_high_bit), intlvBits(_intlv_bits),
           intlvMatch(_intlv_match)
     {
+        // std::cout << "fanxi added in add_range.hh" <<std::endl;
+        // std::cout << "intlvBits %d" <<  intlvBits+0 << std::endl;
+        // std::cout << "intlvMatch %d" <<  intlvMatch+0 << std::endl;
+
+
         // sanity checks
         fatal_if(intlvBits && intlvMatch >= ULL(1) << intlvBits,
                  "Match value %d does not fit in %d interleaving bits\n",
@@ -151,10 +156,12 @@ class AddrRange
             intlvHighBit = ranges.front().intlvHighBit;
             xorHighBit = ranges.front().xorHighBit;
             intlvBits = ranges.front().intlvBits;
-
-            if (ranges.size() != (ULL(1) << intlvBits))
-                fatal("Got %d ranges spanning %d interleaving bits\n",
-                      ranges.size(), intlvBits);
+            
+            std::cout << "fanxi added in addr_range.h ranges.size() = " << ranges.size() << std::endl;
+            // don't understand!!! fanxi added
+            //  if (ranges.size() != (ULL(1) << intlvBits))
+            //      fatal("Got %d ranges spanning %d interleaving bits\n",
+            //            ranges.size(), intlvBits);
 
             uint8_t match = 0;
             for (const auto& r : ranges) {
