@@ -68,6 +68,8 @@ class GarnetSyntheticTraffic : public MemObject
     std::string current_task_line;
     int current_line_num;
     int get_task(int id,int line_num);
+    int tick_pre = 0;
+    int communication_tick = 0;
 
     typedef GarnetSyntheticTrafficParams Params;
     GarnetSyntheticTraffic(const Params *p);

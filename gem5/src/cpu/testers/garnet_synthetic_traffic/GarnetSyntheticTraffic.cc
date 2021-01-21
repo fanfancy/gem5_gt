@@ -53,7 +53,6 @@
 #include "sim/sim_events.hh"
 #include "sim/stats.hh"
 #include "sim/system.hh"
-#include <unistd.h>
 
 // CPU satus
 # define IDLE               (int(0))
@@ -143,7 +142,7 @@ GarnetSyntheticTraffic::getMasterPort(const std::string &if_name, PortID idx)
 
 void init_recv_packet_files(int id){
     std::string file;
-	file = "./../recv/"+std::to_string(id)+".txt";
+    file = "./../recv/"+std::to_string(id)+".txt";
 	ofstream OutFile(file);
 	OutFile << std::to_string(0); 
     OutFile.close();    
@@ -158,14 +157,6 @@ GarnetSyntheticTraffic::init()
     numPacketsSent = 0;
     current_line_num = 0;
     init_recv_packet_files(id);
-
-    // get current working path 
-    char cwd[100];
-    if (getcwd(cwd, sizeof(cwd)) != NULL) {
-       std::cout <<"Current working dir:  "<< cwd << std::endl;
-    } else {
-       std::cout << "getcwd() error" << std::endl;
-    }
 }
 
 
@@ -187,7 +178,7 @@ GarnetSyntheticTraffic::completeRequest(PacketPtr pkt)
 int recv_packets(int id)
 {
 	std::string file;
-	file = "./../recv/"+std::to_string(id)+".txt";
+    file = "./../recv/"+std::to_string(id)+".txt";
 	ifstream infile; 
     infile.open(file.data());  
     assert(infile.is_open());   
@@ -256,7 +247,7 @@ vector<string> split(const string &str, const string &pattern)
 void tell_mem_send_data(std::string src_mem_index,std::string num_wait_packets,int id) 
 {
 	std::string file;
-	file = "./../cpu_task/"+src_mem_index+".txt";
+    file = "./../cpu_task/"+src_mem_index+".txt";
     fstream f;
 
     std::string message_to_write = "send ";
@@ -269,6 +260,35 @@ void tell_mem_send_data(std::string src_mem_index,std::string num_wait_packets,i
     f.close(); 
     std::cout<<"fanxi added, tell_mem_send_data ing, id= " << id << std::endl;
 	 
+}
+
+//flag == 1 : record communicaion time ; info = communication time;
+//== 0 : finish  ; info = current_line_num; 
+void output_data(int id, int info, bool flag)
+{
+    std::string file;
+    file = "./../cpu_output/"+std::to_string(id)+".txt";
+    fstream f;
+    std::string message_to_write;
+    if ( flag )
+    {
+        message_to_write.append("communication time = ");
+        message_to_write.append(std::to_string(info));
+        message_to_write.append(" ;  curTick = ");
+        message_to_write.append(std::to_string(curTick()));
+    }
+    else
+    {
+        message_to_write.append("finish : curTick = ");
+        message_to_write.append(std::to_string(curTick()));
+        message_to_write.append("  ;  curTaskLineNum = ");
+        message_to_write.append(std::to_string(info));
+    }
+    //追加写入,在原来基础上加了ios::app 
+	f.open(file,ios::out|ios::app);
+    f<<message_to_write<<endl; 
+    f.close(); 
+    //std::cout<<"fanxi added, tell_mem_send_data ing, id= " << id << std::endl;
 }
 
 void
@@ -295,6 +315,9 @@ GarnetSyntheticTraffic::tick()
 
             if (current_task[0] == "wait"){
                 std::cout << "== wait" << std::endl;
+                std::cout << "== ID" << id <<"  wait curTick : " << curTick() <<std::endl;
+                tick_pre = curTick();
+
                 cpu_status = WORKIING;
                 cpu_work_stats = WORK_WAIT;
                 num_packet_wait = atoi(current_task[1].c_str());
@@ -304,6 +327,13 @@ GarnetSyntheticTraffic::tick()
             }
             else if (current_task[0] == "cal"){
                 std::cout << "== cal" << std::endl;
+                std::cout << "== cal curTick : " << curTick() <<std::endl;
+
+                communication_tick = curTick() - tick_pre;
+                std::cout << "== ID"<<id << "  comm_tick : "<< communication_tick << std::endl;
+                
+                output_data(id, communication_tick , 1);
+
                 cpu_status = WORKIING;
                 cpu_work_stats = WORK_CAL;
 
@@ -323,7 +353,8 @@ GarnetSyntheticTraffic::tick()
             else if (strstr(current_task[0].c_str(), "finish") != NULL ) { // 最后一行current_task[0]会多一个终结符
                 cpu_status = FINISH;
                 cpu_work_stats = WORK_IDLE;
-                std::cout << "cpu "<< id << " finished all tasks" << "@"<< curTick() << std::endl;
+
+                output_data(id, current_line_num , 0);
             }
         }
     }
@@ -400,7 +431,10 @@ GarnetSyntheticTraffic::tick()
 
     // Schedule wakeup
     if (curTick() >= simCycles)
+    {
+        if(cpu_status != FINISH) output_data(id, current_line_num, 0);
         exitSimLoop("Network Tester completed simCycles");
+    }
     else {
         if (!tickEvent.scheduled())
             schedule(tickEvent, clockEdge(Cycles(1)));
