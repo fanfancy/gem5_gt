@@ -103,7 +103,7 @@ def setup_memory_controllers(system, ruby, dir_cntrls, options):
         for r in system.mem_ranges:
             mem_ctrl = MemConfig.create_mem_ctrl(
                 MemConfig.get(options.mem_type), r, index, options.num_dirs,
-                int(math.log(options.num_dirs, 2)), options.cacheline_size)
+                int(math.ceil(math.log(options.num_dirs, 2))), options.cacheline_size) # fanxi modified ! bug?
 
             if options.access_backing_store:
                 mem_ctrl.kvm_map=False
@@ -201,18 +201,27 @@ def create_system(options, full_system, system, piobus = None, dma_ports = []):
 def create_directories(options, mem_ranges, ruby_system):
     dir_cntrl_nodes = []
     if options.numa_high_bit:
+        print ("fanxi added in Ruby.py, options.numa_high_bit")
         numa_bit = options.numa_high_bit
     else:
         # if the numa_bit is not specified, set the directory bits as the
         # lowest bits above the block offset bits, and the numa_bit as the
         # highest of those directory bits
-        dir_bits = int(math.log(options.num_dirs, 2))
+        dir_bits = int(math.ceil(math.log(options.num_dirs, 2)))## modified by fanxi,bug?
+        print ("fanxi added in Ruby.py, options.numa_high_bit = false") # go to this!
         block_size_bits = int(math.log(options.cacheline_size, 2))
         numa_bit = block_size_bits + dir_bits - 1
 
+    print ("fanxi added in ruby.py, options.num_dirs = ", options.num_dirs )
+    print ("dir_bits", dir_bits)
     for i in xrange(options.num_dirs):
+        print ("fanxi added in ruby.py, i = ", i )
+        print ("mem_ranges" , mem_ranges)
+        
+
         dir_ranges = []
         for r in mem_ranges:
+            print ("r = ",r)
             addr_range = m5.objects.AddrRange(r.start, size = r.size(),
                                               intlvHighBit = numa_bit,
                                               intlvBits = dir_bits,
