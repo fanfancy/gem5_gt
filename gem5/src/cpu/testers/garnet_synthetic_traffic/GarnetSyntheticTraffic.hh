@@ -42,6 +42,8 @@
 #include "sim/sim_object.hh"
 #include "sim/stats.hh"
 
+#include <vector>
+
 enum TrafficType {BIT_COMPLEMENT_ = 0,
                   BIT_REVERSE_ = 1,
                   BIT_ROTATION_ = 2,
@@ -78,6 +80,7 @@ class GarnetSyntheticTraffic : public MemObject
 
     // main simulation loop (one cycle)
     void tick();
+    void tick_pre_0();
 
     virtual BaseMasterPort &getMasterPort(const std::string &if_name,
                                           PortID idx = InvalidPortID);
