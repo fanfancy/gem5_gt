@@ -1,0 +1,1410 @@
+wait 1536
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+cal 6
+send 49 50
+finish

@@ -1,0 +1,20354 @@
+wait 24320
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 65 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+cal 12
+send 66
+finish

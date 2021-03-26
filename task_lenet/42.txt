@@ -1,0 +1,70 @@
+wait 224
+cal 1
+send 53
+send 53
+send 53
+send 53
+send 53
+cal 1
+send 53
+send 53
+send 53
+send 53 54
+send 53 54
+cal 1
+send 53 54
+send 53 54
+send 53 54
+send 53 54
+send 53 54
+cal 1
+send 53 54
+send 53 54
+send 53 54
+send 53 54
+send 53 54
+cal 1
+send 53 54
+send 53 54
+send 53 54
+send 53 54
+send 53 54
+cal 1
+send 53 54
+send 53 54
+send 53 54
+send 53 54
+send 53 54
+cal 1
+send 53 54
+send 53 54
+send 53 54
+send 53 54
+send 53 54
+cal 1
+send 53 54
+send 53 54
+send 53 54
+send 54
+send 54
+cal 1
+send 54
+send 54
+send 54
+send 54
+send 54
+cal 1
+send 54
+send 54
+send 54
+send 54
+send 54
+cal 1
+send 54
+send 54
+send 54
+send 54
+send 54
+cal 1
+send 54
+finish

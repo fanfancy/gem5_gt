@@ -1,0 +1,170 @@
+wait 560
+cal 1
+send 43
+send 43
+send 43
+send 43
+send 43
+cal 1
+send 43
+send 43
+send 43
+send 43
+send 43
+cal 1
+send 43
+send 43
+send 43
+send 43
+send 43
+cal 1
+send 43
+send 43
+send 43
+send 43
+send 43
+cal 1
+send 43
+send 43
+send 43
+send 43
+send 43
+cal 1
+send 43
+send 43
+send 43
+send 43
+send 43
+cal 1
+send 43
+send 43
+send 43
+send 43
+send 43
+cal 1
+send 43
+send 43
+send 43
+send 43
+send 43
+cal 1
+send 43
+send 43
+send 43
+send 43
+send 43
+cal 1
+send 43
+send 43
+send 43
+send 43 44
+send 43 44
+cal 1
+send 43 44
+send 43 44
+send 43 44
+send 43 44
+send 43 44
+cal 1
+send 43 44
+send 43 44
+send 43 44
+send 43 44
+send 43 44
+cal 1
+send 43 44
+send 43 44
+send 43 44
+send 43 44
+send 43 44
+cal 1
+send 43 44
+send 43 44
+send 43 44
+send 43 44
+send 43 44
+cal 1
+send 43 44
+send 43 44
+send 43 44
+send 43 44
+send 43 44
+cal 1
+send 43 44
+send 43 44
+send 43 44
+send 44
+send 44
+cal 1
+send 44
+send 44
+send 44
+send 44
+send 43 44
+cal 1
+send 43 44
+send 43 44
+send 43 44
+send 43 44
+send 43 44
+cal 1
+send 43 44
+send 43 44
+send 43 44
+send 43 44
+send 43 44
+cal 1
+send 43 44
+send 43 44
+send 43 44
+send 43 44
+send 43 44
+cal 1
+send 43 44
+send 43 44
+send 43 44
+send 43 44
+send 43 44
+cal 1
+send 43 44
+send 43 44
+send 43 44
+send 43 44
+send 43 44
+cal 1
+send 43 44
+send 43 44
+send 43 44
+send 43 44
+send 43 44
+cal 1
+send 43 44
+send 43 44
+send 43 44
+send 43 44
+send 43 44
+cal 1
+send 43 44
+send 43 44
+send 43 44
+send 43 44
+send 43 44
+cal 1
+send 43 44
+send 43 44 45
+send 43 44 45
+send 43 44 45
+send 43 44 45
+cal 1
+send 43 44 45
+send 43 44 45
+send 43 44 45
+send 43 44 45
+send 43 44 45
+cal 1
+send 43 44 45
+send 43 44 45
+send 43 44 45
+send 43 44 45
+send 43 44 45
+finish

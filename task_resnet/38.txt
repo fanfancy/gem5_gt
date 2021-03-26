@@ -1,0 +1,1410 @@
+wait 1536
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+cal 6
+send 43 44
+finish
