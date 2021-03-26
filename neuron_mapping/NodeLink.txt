@@ -1,0 +1,56 @@
+---------Node to Node Link Situation-----------
+node 0:  34  
+node 1:  34  
+node 2:  34  
+node 3:  34  35  
+node 4:  34  35  
+node 5:  35  
+node 6:  35  
+node 7:  35  36  
+node 8:  36  35  
+node 9:  36  
+node 10:  36  
+node 11:  36  
+node 12:  37  
+node 13:  37  
+node 14:  37  
+node 15:  37  38  
+node 16:  37  38  
+node 17:  38  
+node 18:  38  
+node 19:  38  39  
+node 20:  39  38  
+node 21:  39  
+node 22:  39  
+node 23:  39  
+node 24:  40  
+node 25:  40  
+node 26:  40  
+node 27:  40  41  
+node 28:  40  41  
+node 29:  41  
+node 30:  41  
+node 31:  41  42  
+node 32:  42  41  
+node 33:  42  
+node 34:  43  44  45  
+node 35:  43  44  45  46  
+node 36:  43  44  45  46  47  48  
+node 37:  44  45  46  47  48  49  50  
+node 38:  45  46  47  48  49  50  51  52  
+node 39:  47  48  49  50  51  52  53  54  
+node 40:  49  51  52  53  50  54  
+node 41:  51  52  53  54  
+node 42:  53  54  
+node 43:  
+node 44:  
+node 45:  
+node 46:  
+node 47:  
+node 48:  
+node 49:  
+node 50:  
+node 51:  
+node 52:  
+node 53:  
+node 54:  
