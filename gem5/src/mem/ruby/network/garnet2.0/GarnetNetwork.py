@@ -48,7 +48,7 @@ class GarnetNetwork(RubyNetwork):
     circ_obr = Param.String("","cir obr");
     enable_fault_model = Param.Bool(False, "enable network fault model");
     fault_model = Param.FaultModel(NULL, "network fault model");
-    garnet_deadlock_threshold = Param.UInt32(50000,
+    garnet_deadlock_threshold = Param.UInt32(500000,
                               "network-level deadlock threshold")
 
 class GarnetNetworkInterface(ClockedObject):
