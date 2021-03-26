@@ -257,7 +257,7 @@ NetworkInterface::wakeup()
                 num_recv_packet ++;
                 std::cout <<  "NI"  << m_id << "num_recv_packet = " << num_recv_packet << std::endl;
                 // # received packets ++ here
-				update_recv_packets(m_id-16, num_recv_packet);
+				update_recv_packets(m_id-81, num_recv_packet);
                 
                 delete t_flit;
             } else {
@@ -367,10 +367,11 @@ NetworkInterface::flitisizeMessage(MsgPtr msg_ptr, int vnet)
     // This is expressed in terms of bytes/cycle or the flit size
     int num_flits = (int) ceil((double) m_net_ptr->MessageSizeType_to_int(
         net_msg_ptr->getMessageSize())/m_net_ptr->getNiFlitSize());
+    std::cout<<"wxy add in flitisizeMessage ： id = "<<m_id<<" flit per massage = "<<std::to_string(num_flits)<<std::endl;
 
     // loop to convert all multicast messages into unicast messages
     for (int ctr = 0; ctr < dest_nodes.size(); ctr++) {
-
+        std::cout<<"wxy add in flitisizeMessage ： dest_node_size" << dest_nodes.size()<<std::endl;
         // this will return a free output virtual channel
         int vc = calculateVC(vnet);
 
@@ -432,6 +433,25 @@ NetworkInterface::flitisizeMessage(MsgPtr msg_ptr, int vnet)
     return true ;
 }
 
+void calVC_output(int id, int vnet, int m_vc_per_vnet, int delta, int flag)
+{
+	ofstream OutFile;
+    std::string file;
+	file = "./../VCallocator/"+std::to_string(id)+".txt";
+    std::string line;
+    if(flag == 1){
+        line = "VC Allocate Success , allocated in vnet:vc_id = " + std::to_string(vnet) + ":" + std::to_string(delta) ;
+    }
+    else{
+        line = "VC allocate Fail , vnet:vc_busy_counter = " + std::to_string(vnet) + ":" + std::to_string(delta);
+    }
+    OutFile.open(file, ios::app);
+	OutFile <<line<<std::endl; 
+    std::cout<<"wxy added, calVC_output ing, id= " << id <<" m_vc_per_vnet="<<m_vc_per_vnet<<std::endl;
+    std::cout<<"wxy added, calVC_output ing    "<<line<<std::endl;
+	OutFile.close();        
+}
+
 // Looking for a free output vc
 int
 NetworkInterface::calculateVC(int vnet)
@@ -445,14 +465,19 @@ NetworkInterface::calculateVC(int vnet)
         if (m_out_vc_state[(vnet*m_vc_per_vnet) + delta]->isInState(
                     IDLE_, curCycle())) {
             vc_busy_counter[vnet] = 0;
+            calVC_output(m_id, vnet, m_vc_per_vnet, delta, 1);
             return ((vnet*m_vc_per_vnet) + delta);
         }
     }
 
     vc_busy_counter[vnet] += 1;
-    panic_if(vc_busy_counter[vnet] > m_deadlock_threshold,
+    calVC_output(m_id, vnet, m_vc_per_vnet, vc_busy_counter[vnet], 0);
+    panic_if(vc_busy_counter[vnet] > 500000,
         "%s: Possible network deadlock in vnet: %d at time: %llu \n",
         name(), vnet, curTick());
+    //panic_if(vc_busy_counter[vnet] > m_deadlock_threshold,
+    //    "%s: Possible network deadlock in vnet: %d at time: %llu \n",
+    //    name(), vnet, curTick());
 
     return -1;
 }

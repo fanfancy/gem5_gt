@@ -120,3 +120,4 @@ class NetworkInterface : public ClockedObject, public Consumer
 };
 
 #endif // __MEM_RUBY_NETWORK_GARNET2_0_NETWORKINTERFACE_HH__
+ 
