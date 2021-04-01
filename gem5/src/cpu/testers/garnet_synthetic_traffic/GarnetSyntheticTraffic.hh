@@ -33,6 +33,7 @@
 
 #include <set>
 
+
 #include "base/statistics.hh"
 #include "mem/mem_object.hh"
 #include "mem/port.hh"
@@ -42,7 +43,8 @@
 #include "sim/sim_object.hh"
 #include "sim/stats.hh"
 
-#include <vector>
+//#include <vector>
+using namespace std;
 
 enum TrafficType {BIT_COMPLEMENT_ = 0,
                   BIT_REVERSE_ = 1,
@@ -60,6 +62,10 @@ class GarnetSyntheticTraffic : public MemObject
   public:
     int cal_cycles;
     int packets_to_send ;
+    int dst_num;
+    int finish_flag;
+    std::vector<int> send_merge;
+    std::vector<int> send_dst_list;
     int send_dst;
     int packets_sent;
     int cpu_status;
@@ -81,7 +87,7 @@ class GarnetSyntheticTraffic : public MemObject
     // main simulation loop (one cycle)
     void tick();
     void tick_pre_0();
-
+    void tick_pre_1();
     virtual BaseMasterPort &getMasterPort(const std::string &if_name,
                                           PortID idx = InvalidPortID);
 
