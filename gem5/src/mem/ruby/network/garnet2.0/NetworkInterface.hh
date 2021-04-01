@@ -80,6 +80,8 @@ class NetworkInterface : public ClockedObject, public Consumer
     const NodeID m_id;
     const int m_virtual_networks, m_vc_per_vnet, m_num_vcs;
     int m_router_id; // id of my router
+    int m_data; // wxy add
+    int m_data_num; // wxy add
     std::vector<OutVcState *> m_out_vc_state;
     std::vector<int> m_vc_allocator;
     int m_vc_round_robin; // For round robin scheduling
@@ -117,6 +119,8 @@ class NetworkInterface : public ClockedObject, public Consumer
     void sendCredit(flit *t_flit, bool is_free);
 
     void incrementStats(flit *t_flit);
+    void recv_flit_info(flit *t_flit, int id);
+    int get_send_data(int id);
 };
 
 #endif // __MEM_RUBY_NETWORK_GARNET2_0_NETWORKINTERFACE_HH__
