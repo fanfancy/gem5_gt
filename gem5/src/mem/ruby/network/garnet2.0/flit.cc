@@ -35,7 +35,7 @@
 
 // Constructor for the flit
 flit::flit(int id, int  vc, int vnet, RouteInfo route, int size,
-    MsgPtr msg_ptr, Cycles curTime)
+    MsgPtr msg_ptr, Cycles curTime, int col_id, bool last_flag)
 {
     m_size = size;
     m_msg_ptr = msg_ptr;
@@ -48,6 +48,8 @@ flit::flit(int id, int  vc, int vnet, RouteInfo route, int size,
     m_route = route;
     m_stage.first = I_;
     m_stage.second = m_time;
+    m_col_id = col_id;
+    m_last_flag = last_flag;
 
     if (size == 1) {
         m_type = HEAD_TAIL_;
@@ -75,6 +77,8 @@ flit::print(std::ostream& out) const
     out << "Dest NI=" << m_route.dest_ni << " ";
     out << "Dest Router=" << m_route.dest_router << " ";
     out << "Enqueue Time=" << m_enqueue_time << " ";
+    out << "Col_id=" << m_col_id << " ";
+    out << "Last_flag" << m_last_flag << " ";
     out << "]";
 }
 

@@ -537,7 +537,7 @@ Sequencer::empty() const
 RequestStatus
 Sequencer::makeRequest(PacketPtr pkt)
 {
-	std::cout << "fanxi added in sequencers.cc,Sequencer::makeRequest"  << std::endl;
+	//std::cout << "fanxi added in sequencers.cc,Sequencer::makeRequest"  << std::endl;
     if (m_outstanding_count >= m_max_outstanding_requests) {
         return RequestStatus_BufferFull;
     }

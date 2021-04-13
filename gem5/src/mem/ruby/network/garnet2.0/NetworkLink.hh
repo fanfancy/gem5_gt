@@ -52,6 +52,12 @@ class NetworkLink : public ClockedObject, public Consumer
     NetworkLink(const Params *p);
     ~NetworkLink();
 
+    //wxy add in 4.6
+    Cycles time_pre;
+    Cycles time_cur;
+    int activity_pre;
+    void updateStats();
+
     void setLinkConsumer(Consumer *consumer);
     void setSourceQueue(flitBuffer *srcQueue);
     void setType(link_type type) { m_type = type; }

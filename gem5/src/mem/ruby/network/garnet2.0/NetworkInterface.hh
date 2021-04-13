@@ -80,7 +80,8 @@ class NetworkInterface : public ClockedObject, public Consumer
     const NodeID m_id;
     const int m_virtual_networks, m_vc_per_vnet, m_num_vcs;
     int m_router_id; // id of my router
-    int m_data; // wxy add
+    int m_data; // wxy add in 4.8
+    int data_last; // wxy add in 4.8
     int m_data_num; // wxy add
     std::vector<OutVcState *> m_out_vc_state;
     std::vector<int> m_vc_allocator;
@@ -113,6 +114,8 @@ class NetworkInterface : public ClockedObject, public Consumer
     bool checkStallQueue();
     bool flitisizeMessage(MsgPtr msg_ptr, int vnet);
     int calculateVC(int vnet);
+    //wxy add in 4.8
+    bool send_last_update(int id);
 
     void scheduleOutputLink();
     void checkReschedule();

@@ -29,7 +29,16 @@
  * Authors: Niket Agarwal
  *          Tushar Krishna
  */
+using namespace std;
+#include <cmath>
+#include <iomanip>
+#include <set>
+#include <string>
+#include <vector>
 
+#include <fstream>
+#include <cassert>
+#include <sstream> 
 
 #include "mem/ruby/network/garnet2.0/NetworkLink.hh"
 
@@ -62,6 +71,46 @@ NetworkLink::setSourceQueue(flitBuffer *srcQueue)
     link_srcQueue = srcQueue;
 }
 
+
+void outputMessage(std::string line, std::string filename)
+{
+    std::string file;
+    file = "./../output_info/" + filename;
+    fstream f;
+    f.open(file,ios::out|ios::app);
+    f<<line<<std::endl; 
+    f.close(); 
+}
+//wxy add in 4.6
+void
+NetworkLink::updateStats()
+{
+    time_cur = curCycle();
+    //Cycles time_delta = time_cur - time_pre;
+    int link_util_total = 0;
+    int link_util_all = 0;
+
+    int activity = getLinkUtilization();
+    int activity_delta = activity - activity_pre;
+
+    link_util_all += activity;
+    link_util_total += activity_delta;
+
+    //double link_util_average = ((double)activity_delta / time_delta);
+    activity_pre = activity;
+    time_pre = time_cur;
+    std::string message_to_write;
+    message_to_write.append("link id : ");
+    message_to_write.append(std::to_string(m_id));
+    message_to_write.append("  ; curTime : ");
+    message_to_write.append(std::to_string(time_cur));
+    message_to_write.append("  ; link_util_all : ");
+    message_to_write.append(std::to_string(link_util_total));
+    message_to_write.append("  ; link_util_all_time : ");
+    message_to_write.append(std::to_string(link_util_all));
+    outputMessage(message_to_write, "link_utilization.txt");
+}
+
 void
 NetworkLink::wakeup()
 {
@@ -73,6 +122,9 @@ NetworkLink::wakeup()
         m_link_utilized++;
         m_vc_load[t_flit->get_vc()]++;
     }
+    // wxy change in 4.6
+    if(curCycle() % 10000 == 0)
+        updateStats();
 }
 
 void

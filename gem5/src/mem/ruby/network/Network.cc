@@ -131,6 +131,7 @@ Network::init()
 uint32_t
 Network::MessageSizeType_to_int(MessageSizeType size_type)
 {
+    //std::cout<<"wxy add in network.cc , m_control_msg_size = "<<m_control_msg_size<<"   ;m_data_msg_size = "<<m_data_msg_size<<std::endl;
     switch(size_type) {
       case MessageSizeType_Control:
       case MessageSizeType_Request_Control:

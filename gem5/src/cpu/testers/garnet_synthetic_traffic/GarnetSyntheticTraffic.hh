@@ -56,6 +56,14 @@ enum TrafficType {BIT_COMPLEMENT_ = 0,
                   UNIFORM_RANDOM_ = 7,
                   NUM_TRAFFIC_PATTERNS_};
 
+struct Col
+{
+    int id;
+    std::vector <int> i_col;
+    std::vector <int> send_node;
+    int flag; //产生与否: =1 产生 ； =0 未产生
+};
+
 class Packet;
 class GarnetSyntheticTraffic : public MemObject
 {
@@ -63,9 +71,21 @@ class GarnetSyntheticTraffic : public MemObject
     int cal_cycles;
     int packets_to_send ;
     int dst_num;
-    int finish_flag;
-    std::vector<int> send_merge;
     std::vector<int> send_dst_list;
+    // wxy add in 4.6
+    int wait_num;
+    int compute_complete;
+    int recv_col_complete;
+    int send_flag;
+    int col_packet_num;
+    int col_compute_cycle;
+    int cur_col_id;
+    Col cur_col;
+    std::vector<int> recv_col_id;
+    std::vector<Col> hold_col_list;
+    int num_cycle_wait;
+    int total_col_recv_previous;
+
     int send_dst;
     int packets_sent;
     int cpu_status;
@@ -78,14 +98,26 @@ class GarnetSyntheticTraffic : public MemObject
     int get_task(int id,int line_num);
     int tick_pre = 0;
     int communication_tick = 0;
+    int pic_num;
 
     typedef GarnetSyntheticTrafficParams Params;
     GarnetSyntheticTraffic(const Params *p);
+    // wxy add in 4.6
+    void init_hold_col();
+    void init_col();
+    void init_computation();
+    void init_wait_packet();
+    void display();
 
     virtual void init();
 
+    //wxy add in 4.7
+    bool compute_check();
+    bool recv_col_check();
+
     // main simulation loop (one cycle)
     void tick();
+    void tick_new();
     void tick_pre_0();
     void tick_pre_1();
     virtual BaseMasterPort &getMasterPort(const std::string &if_name,

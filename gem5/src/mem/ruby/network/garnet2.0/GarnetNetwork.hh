@@ -116,8 +116,12 @@ class GarnetNetwork : public Network
     // increment counters
     void increment_injected_packets(int vnet) { m_packets_injected[vnet]++; }
     void increment_received_packets(int vnet) {
-		std::cout << "fanxi added in garnetNetwork.hh, now m_packets_received++" <<std::endl;
+		//std::cout << "fanxi added in garnetNetwork.hh, now m_packets_received++" <<std::endl;
 		m_packets_received[vnet]++; }
+
+    // wxy add in 4.6
+    int get_injected_packets(int vnet){ return(m_packets_injected[vnet].value());}
+    int get_received_packets(int vnet){ return(m_packets_received[vnet].value());}
 
     void
     increment_packet_network_latency(Cycles latency, int vnet)

@@ -30,6 +30,8 @@
  *          Tushar Krishna
  */
 
+#include <iostream>
+#include <fstream>
 
 #include "mem/ruby/network/garnet2.0/GarnetNetwork.hh"
 
@@ -191,6 +193,7 @@ GarnetNetwork::init()
             router->printFaultVector(cout);
         }
     }
+
 }
 
 GarnetNetwork::~GarnetNetwork()
